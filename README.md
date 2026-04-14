@@ -17,8 +17,8 @@ The project demonstrates an end-to-end workflow from raw data generation and cle
 ---
 
 ## 🏗️ Architecture
-CSV Dataset → Python (Cleaning & Feature Engineering) → Snowflake (Data Warehouse) → Power BI (Dashboard)
 
+CSV Dataset → Python (Cleaning & Feature Engineering) → Snowflake (Data Warehouse) → Power BI (Dashboard)
 
 ---
 
@@ -30,25 +30,44 @@ CSV Dataset → Python (Cleaning & Feature Engineering) → Snowflake (Data Ware
 - **SQL** → Data modeling (fact & dimension tables)  
 
 ---
+
 ## 📊 Dashboard (Power BI)
 
-The Power BI dashboard includes:
+The Power BI dashboard provides an interactive view of tutoring market dynamics across Sydney, enabling insights into demand, pricing, and student engagement patterns.
 
 ### 📌 Overview
 - Total sessions, revenue, completion rate  
-- Demand by suburb (map visualization)
+- Demand and activity breakdown across key suburbs  
+- Market performance KPIs  
 
 ### 💰 Pricing Insights
-- Hourly rate vs experience  
-- Pricing distribution by subject  
+- Hourly rate vs tutor experience  
+- Subject-wise pricing distribution  
+- Premium pricing patterns across high-demand subjects  
 
 ### 📈 Demand Trends
-- Sessions over time (monthly trends)  
-- Peak booking days  
+- Session volume over time (monthly trends)  
+- Peak booking days and seasonal demand patterns  
 
 ### 🔁 Retention & Performance
-- Repeat student rate  
-- Tutor rating vs student retention  
+- Repeat student rate analysis  
+- Tutor rating vs student retention relationship  
+
+---
+
+## 📸 Dashboard Preview
+
+### 🔗 Live Dashboard
+👉 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmQ0OTc3M2QtMmM1Zi00NzlhLWIwNTItYWU5MTM1ZTQ2NjU2IiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D)
+
+---
+
+### 🖼️ Screenshots
+
+#### 📊 Overview Dashboard
+![Overview Dashboard]
+
+(<img width="1359" height="768" alt="image" src="https://github.com/user-attachments/assets/b5051186-6635-43a2-baa4-c6aa67f6776a" />)
 
 ---
 
@@ -61,3 +80,23 @@ The Power BI dashboard includes:
 - Discounts have moderate impact on booking volume  
 
 ---
+
+## 🚀 Future Improvements
+- Add incremental data pipeline (daily updates)  
+- Integrate dbt for transformation management  
+- Build machine learning model for demand prediction  
+- Deploy dashboard to Power BI Service  
+
+---
+
+## 🧠 Skills Demonstrated
+- Data Cleaning & Feature Engineering (Python)  
+- SQL & Data Modeling (Snowflake)  
+- Data Warehousing Architecture  
+- Business Intelligence & Dashboarding (Power BI)  
+- Analytical Thinking & Insight Generation  
+
+---
+
+## 📬 Contact
+Feel free to connect or reach out for feedback or collaboration.
