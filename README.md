@@ -65,7 +65,10 @@ The Power BI dashboard provides an interactive view of tutoring market dynamics 
 ### 🖼️ Screenshots
 
 #### 📊 Overview Dashboard
-<img width="1359" height="768" alt="image" src="https://github.com/user-attachments/assets/b5051186-6635-43a2-baa4-c6aa67f6776a" />
+<img width="1445" height="830" alt="image" src="https://github.com/user-attachments/assets/5e9cf476-3fb2-41b5-9db9-532e6df56033" />
+
+#### 📊 Pricing Insights Dashboard
+<img width="1448" height="823" alt="image" src="https://github.com/user-attachments/assets/3b69cd57-24c9-43d9-9283-8b749fdaf4ce" />
 
 ---
 
